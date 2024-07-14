@@ -8,7 +8,7 @@ print(softmax_function(data_mc1))
 #tensor([0.0900, 0.2447, 0.6652]) - c)
 
 ###MC2
-#es1: tensor([0.0900, 0.2447, 0.6652]) - c)
+#es1: tensor([0.7054, 0.0351, 0.2595]) - b)
 
 #MC3
 #es1: tensor([0., 0., nan]) - c)
@@ -37,5 +37,5 @@ print(softmax_function(data_mc1))
 #MC11
 #es4: - a)
 
-#MC11
+#MC12
 #es4: - d)
